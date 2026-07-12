@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&height=220&section=header&text=Zamin%20Abbas&fontSize=55&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descAlignY=55&descSize=20&descColor=00FF41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&height=220&section=header&text=Zamin%20Abbas&fontSize=55&fontColor=#00D4FF=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descAlignY=55&descSize=20&descColor=00FF41" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&random=false&width=650&height=50&lines=Building+Future+with+Code+%F0%9F%9A%80;Training+neural+networks...;Debugging+the+matrix...;pip+install+ambition;print(%22Hello%2C+World%22)" />
 
