@@ -16,7 +16,6 @@
 
 <br>
 
-<!-- ================= IDENTITY / SCAN CARD ================= -->
 <div align="center">
 
 ```bash
@@ -27,9 +26,7 @@ zamin@ai-engineer:~$ ./identity_scan.sh --target "Zamin Abbas"
 <tr>
 <td align="center" width="340">
 
-<img src="https://raw.githubusercontent.com/zaminaliafzal-oss/zaminaliafzal-oss/main/assets/profile.jpg" width="340" style="border-radius:12px;"><br>
-
-<br><br>
+<img src="https://raw.githubusercontent.com/zaminaliafzal-oss/zaminaliafzal-oss/main/profile.jpg" width="340" style="border-radius:12px;"><br>
 
 <img src="https://img.shields.io/badge/IDENTITY-VERIFIED-00FF9C?style=for-the-badge&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/ACCESS-GRANTED-00E5FF?style=for-the-badge&labelColor=0d0d0d" />
@@ -56,7 +53,6 @@ Fun_fact:   🐛 I debug with print() and I'm not sorry
 
 <br>
 
-<!-- ================= TECH STACK ================= -->
 <div align="center">
 
 ```bash
@@ -69,7 +65,6 @@ zamin@ai-engineer:~$ cat tech_stack.txt
 
 <br>
 
-<!-- ================= GITHUB STATS ================= -->
 <div align="center">
 
 ```bash
@@ -85,7 +80,6 @@ zamin@ai-engineer:~$ ./show_github_stats.sh --colorful
 
 <br>
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
 <div align="center">
 
 ```bash
@@ -102,7 +96,6 @@ zamin@ai-engineer:~$ ./contribution_graph.sh --animate
 
 <br>
 
-<!-- ================= SNAKE GAME ================= -->
 <div align="center">
 
 ```bash
@@ -117,7 +110,6 @@ zamin@ai-engineer:~$ ./snake_game.sh
 
 <br>
 
-<!-- ================= QUOTE ================= -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
@@ -126,7 +118,6 @@ zamin@ai-engineer:~$ ./snake_game.sh
 
 <br>
 
-<!-- ================= CONNECT ================= -->
 <div align="center">
 
 ```bash
