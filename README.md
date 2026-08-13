@@ -1,52 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&height=220&section=header&text=Zamin%20Abbas&fontSize=55&fontColor=#00D4FF=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descAlignY=55&descSize=20&descColor=00FF41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,25:9d4edd,50:00d4ff,75:00ff88,100:6a00f4&height=260&section=header&text=Zamin%20Abbas&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=58&descSize=20&descColor=e0f7ff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&random=false&width=650&height=50&lines=Building+Future+with+Code+%F0%9F%9A%80;Training+neural+networks...;Debugging+the+matrix...;pip+install+ambition;print(%22Hello%2C+World%22)" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=750&height=50&lines=%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%A7%A0+Training+Neural+Networks...;%F0%9F%94%8D+Debugging+the+Matrix...;%F0%9F%92%BB+pip+install+ambition;%E2%9C%A8+print(%22Hello%2C+World%22)" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=zaminaliafzal-oss&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0f0f0f" />
-<img src="https://img.shields.io/github/followers/zaminaliafzal-oss?label=FOLLOWERS&style=for-the-badge&color=39FF14&labelColor=0f0f0f" />
+<img src="https://komarev.com/ghpvc/?username=zaminaliafzal-oss&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/github/followers/zaminaliafzal-oss?label=FOLLOWERS&style=for-the-badge&color=00FF9C&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
+<!-- ================= IDENTITY / SCAN CARD ================= -->
+<div align="center">
+
 ```bash
-zamin@ai-engineer:~$ whoami
+zamin@ai-engineer:~$ ./identity_scan.sh --target "Zamin Abbas"
 ```
 
-<table align="center">
+<table align="center" border="0">
 <tr>
-<td>
+<td align="center" width="340">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="340"><br>
+
+<sub><b>⬆️ Replace this frame's source with your photo</b></sub><br>
+<sub>Upload your image as <code>assets/profile.jpg</code> in your repo,<br>then swap the src above for:<br><code>https://raw.githubusercontent.com/zaminaliafzal-oss/&lt;repo&gt;/main/assets/profile.jpg</code></sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/IDENTITY-VERIFIED-00FF9C?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-00E5FF?style=for-the-badge&labelColor=0d0d0d" />
+
+</td>
+<td valign="middle">
 
 ```yaml
 Name:       Zamin Abbas
-Role:       AI/ML Engineer (in progress)
-Focus:      Machine Learning, Deep Learning, Python
-Status:     Building Future with Code 🚀
-Location:   lahore
-Email:      zaminaliafzal@gmail.com
-Currently:  Learning machine learning deeply 
-Fun_fact:   I debug with print() and I'm not sorry
+Role:       AI / ML Engineer (in progress)
+Focus:      Machine Learning • Deep Learning • Python
+Status:     🚀 Building Future with Code
+Location:   📍 Lahore, Pakistan
+Email:      ✉️ zaminaliafzal@gmail.com
+Currently:  📚 Learning Machine Learning deeply
+Fun_fact:   🐛 I debug with print() and I'm not sorry
 ```
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
+
+<!-- ================= TECH STACK ================= -->
+<div align="center">
 
 ```bash
 zamin@ai-engineer:~$ cat tech_stack.txt
 ```
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,jupyter,git,github,vscode,linux,docker,mysql&theme=dark" />
 
@@ -54,61 +72,74 @@ zamin@ai-engineer:~$ cat tech_stack.txt
 
 <br>
 
-```bash
-zamin@ai-engineer:~$ ./show_github_stats.sh
-```
-
+<!-- ================= GITHUB STATS ================= -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaminaliafzal-oss&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0f0f&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaminaliafzal-oss&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0f0f&title_color=39FF14&text_color=c9d1d9" width="41%"/>
+```bash
+zamin@ai-engineer:~$ ./show_github_stats.sh --colorful
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaminaliafzal-oss&theme=dark&hide_border=true&background=0f0f0f&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=c9d1d9" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zaminaliafzal-oss&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d0d0d&title_color=00E5FF&icon_color=00FF9C&text_color=e0f7ff&ring_color=00E5FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaminaliafzal-oss&layout=compact&theme=graywhite&hide_border=true&bg_color=0d0d0d&title_color=00E5FF&text_color=e0f7ff" width="41%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaminaliafzal-oss&theme=dark&hide_border=true&background=0d0d0d&stroke=00E5FF&ring=00FF9C&fire=FF6EC7&currStreakLabel=00E5FF&sideLabels=e0f7ff&dates=c9d1d9" width="70%"/>
 
 </div>
 
 <br>
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+<div align="center">
 
 ```bash
 zamin@ai-engineer:~$ ./contribution_graph.sh --animate
 ```
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaminaliafzal-oss&theme=react-dark&hide_border=true&bg_color=0f0f0f&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaminaliafzal-oss&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=00E5FF&line=00FF9C&point=ffffff&area=true&area_color=00E5FF" width="95%"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zaminaliafzal-oss&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zaminaliafzal-oss&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%"/>
 
 </div>
 
 <br>
+
+<!-- ================= SNAKE GAME ================= -->
+<div align="center">
 
 ```bash
 zamin@ai-engineer:~$ ./snake_game.sh
 ```
 
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>⚡ (Auto-generates after you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your repo)</sub>
+<sub>⚡ Auto-generates after adding the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your repo</sub>
 
 </div>
 
 <br>
 
+<!-- ================= QUOTE ================= -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+
+</div>
+
+<br>
+
+<!-- ================= CONNECT ================= -->
+<div align="center">
+
 ```bash
 zamin@ai-engineer:~$ cat connect.txt
 ```
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:zaminaliafzal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/your-linkedin-here)
-[![Instagram](https://img.shields.io/badge/-Instagram-0f0f0f?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/your-handle-here)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://your-portfolio-link-here.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:zaminaliafzal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/your-linkedin-here)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=FF6EC7)](https://instagram.com/your-handle-here)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://your-portfolio-link-here.com)
 
 </div>
 
@@ -121,6 +152,6 @@ zamin@ai-engineer:~$ echo "Thanks for visiting! ⭐ Star my repos if you like my
 > Thanks for visiting! ⭐ Star my repos if you like my work
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,25:9d4edd,50:00d4ff,75:00ff88,100:6a00f4&height=150&section=footer" width="100%"/>
 
 </div>
