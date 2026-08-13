@@ -1,94 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1b2a,60:001a1a,100:000000&height=280&section=header&text=ZAMIN%20ABBAS&fontSize=58&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Neural%20Systems%20%7C%20Machine%20Intelligence%20%7C%20Applied%20Research&descAlignY=55&descSize=18&descColor=7CFFCB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20There%2C%20I'm%20Zamin%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Crafting%20Intelligent%20Systems&descAlignY=58&descSize=18&descColor=d9d9ff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=%5BSYSTEM%5D+Booting+AI+Research+Lab...;%5BSTATUS%5D+Neural+weights+initialized;%5BMODE%5D+Deep+Learning+%7C+Computer+Vision+%7C+NLP;%5BUSER%5D+Zamin+Abbas+%E2%80%94+AI%2FML+Engineer;%5BLOOP%5D+while(alive)%7B+learn()%3B+build()%3B+%7D" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=55&lines=Machine+Learning+Engineer+%F0%9F%A7%A0;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+Data+into+Decisions+%F0%9F%93%88;Always+Learning%2C+Always+Building+%E2%9C%A8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Profile%20Views-blueviolet?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+<img src="https://komarev.com/ghpvc/?username=zaminaliafzal-oss&style=for-the-badge&color=blueviolet&label=" height="32" />
+<img src="https://img.shields.io/github/followers/zaminaliafzal-oss?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=FOLLOWERS" height="32"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" height="32"/>
+
+</div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
-<img src="https://komarev.com/ghpvc/?username=zaminaliafzal-oss&label=NEURAL+SCANS&color=00F5FF&style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/zaminaliafzal-oss?label=CONNECTIONS&style=for-the-badge&color=7CFFCB&labelColor=000000" />
-<img src="https://img.shields.io/badge/CORE-ONLINE-39FF14?style=for-the-badge&labelColor=000000" />
-
-</div>
-
 <br>
 
-<!-- ================= AI LAB IDENTITY TERMINAL ================= -->
-<div align="center">
-
-```bash
-root@neural-lab:~$ python3 identity_scan.py --target "Zamin Abbas" --mode deep_analysis
-```
-
-<table align="center" border="0" cellpadding="12">
+<!-- ================= ABOUT ME ================= -->
+<table align="center" width="100%">
 <tr>
-<td align="center" width="360">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/zaminaliafzal-oss/zaminaliafzal-oss/main/profile.jpg" width="330" style="border-radius:14px; border:3px solid #00F5FF;">
+<img src="https://raw.githubusercontent.com/zaminaliafzal-oss/zaminaliafzal-oss/main/profile.jpg" width="290" style="border-radius:20px; box-shadow: 0 0 25px rgba(139,92,246,0.6);">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NEURAL_SCAN-COMPLETE-00F5FF?style=for-the-badge&labelColor=000000" />
-<br>
-<img src="https://img.shields.io/badge/IDENTITY-VERIFIED-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/CLEARANCE-AI__ENGINEER-7CFFCB?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📍-Lahore,_Pakistan-8b5cf6?style=flat-square&labelColor=1a1a2e" />
+<br><br>
+<img src="https://img.shields.io/badge/✉️-zaminaliafzal@gmail.com-8b5cf6?style=flat-square&labelColor=1a1a2e" />
 
 </td>
-<td valign="middle">
+<td width="62%" valign="middle">
 
-```yaml
-> SUBJECT PROFILE ─────────────────────
-Name:        Zamin Abbas
-Callsign:    AI / ML Engineer (in progress)
-Core_Focus:  Machine Learning • Deep Learning
-Sub_Systems: Computer Vision • NLP • MLOps
-Lang_Stack:  Python • SQL
-Status:      🟢 ACTIVE — Building Intelligent Systems
-Location:    📍 Lahore, Pakistan
-Uplink:      ✉️ zaminaliafzal@gmail.com
-Directive:   📚 Mastering Machine Learning, one model at a time
-Anomaly:     🐛 Debugs with print() and feels zero remorse
-> END TRANSMISSION ────────────────────
-```
+### 🚀 About Me
+
+I'm an aspiring **AI / ML Engineer** based in Lahore, passionate about turning raw data into intelligent, real-world solutions. I spend my time deep in neural networks, experimenting with models, and constantly leveling up my machine learning skills.
+
+- 🔭 Currently diving deep into **Machine Learning & Deep Learning**
+- 🌱 Learning: Computer Vision, NLP & MLOps
+- 💡 Fun fact: I debug with `print()` and I regret nothing
+- ⚡ Always down to collaborate on interesting AI projects
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<!-- ================= RESEARCH FOCUS ================= -->
+<!-- ================= FOCUS AREAS ================= -->
 <div align="center">
 
-```bash
-root@neural-lab:~$ cat research_focus.log
-```
+### 🎯 What I Work On
 
-<table align="center" width="92%">
+<table width="90%">
 <tr>
 <td align="center" width="25%">
 
-🧠<br><b>Deep Learning</b><br><sub>Neural architectures & training pipelines</sub>
+<img width="55" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/><br>
+<b>Deep Learning</b><br>
+<sub>Neural networks & training pipelines</sub>
 
 </td>
 <td align="center" width="25%">
 
-👁️<br><b>Computer Vision</b><br><sub>Image recognition & visual understanding</sub>
+<img width="55" src="https://img.icons8.com/fluency/96/visible.png"/><br>
+<b>Computer Vision</b><br>
+<sub>Image recognition & analysis</sub>
 
 </td>
 <td align="center" width="25%">
 
-💬<br><b>NLP</b><br><sub>Language models & text intelligence</sub>
+<img width="55" src="https://img.icons8.com/fluency/96/chat.png"/><br>
+<b>NLP</b><br>
+<sub>Language models & text AI</sub>
 
 </td>
 <td align="center" width="25%">
 
-⚙️<br><b>MLOps</b><br><sub>Model deployment & production pipelines</sub>
+<img width="55" src="https://img.icons8.com/fluency/96/settings.png"/><br>
+<b>MLOps</b><br>
+<sub>Model deployment pipelines</sub>
 
 </td>
 </tr>
@@ -101,11 +97,9 @@ root@neural-lab:~$ cat research_focus.log
 <!-- ================= TECH STACK ================= -->
 <div align="center">
 
-```bash
-root@neural-lab:~$ cat /etc/tech_stack.conf
-```
+### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,jupyter,git,github,vscode,linux,docker,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,jupyter,git,github,vscode,linux,docker,mysql&theme=light" />
 
 </div>
 
@@ -114,14 +108,14 @@ root@neural-lab:~$ cat /etc/tech_stack.conf
 <!-- ================= GITHUB STATS ================= -->
 <div align="center">
 
-```bash
-root@neural-lab:~$ ./run_diagnostics.sh --github --colorful
-```
+### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaminaliafzal-oss&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=7CFFCB&text_color=e0f7ff&ring_color=00F5FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaminaliafzal-oss&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=e0f7ff" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zaminaliafzal-oss&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8b5cf6&text_color=e0e0ff&ring_color=8b5cf6" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaminaliafzal-oss&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=e0e0ff" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaminaliafzal-oss&theme=dark&hide_border=true&background=00000000&stroke=00F5FF&ring=39FF14&fire=FF6EC7&currStreakLabel=00F5FF&sideLabels=e0f7ff&dates=c9d1d9" width="70%"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaminaliafzal-oss&theme=radical&hide_border=true&background=1a1a2e&stroke=8b5cf6&ring=A78BFA&fire=FF6EC7&currStreakLabel=A78BFA&sideLabels=e0e0ff&dates=c9d1d9" width="68%"/>
 
 </div>
 
@@ -130,15 +124,15 @@ root@neural-lab:~$ ./run_diagnostics.sh --github --colorful
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 <div align="center">
 
-```bash
-root@neural-lab:~$ ./plot_activity_matrix.sh --animate
-```
+### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaminaliafzal-oss&theme=react-dark&hide_border=true&bg_color=00000000&color=00F5FF&line=39FF14&point=ffffff&area=true&area_color=00F5FF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaminaliafzal-oss&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=A78BFA&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="95%"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zaminaliafzal-oss&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%"/>
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=zaminaliafzal-oss&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%"/>
 
 </div>
 
@@ -147,9 +141,7 @@ root@neural-lab:~$ ./plot_activity_matrix.sh --animate
 <!-- ================= SNAKE GAME ================= -->
 <div align="center">
 
-```bash
-root@neural-lab:~$ ./simulate_contribution_flow.sh
-```
+### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
@@ -162,11 +154,7 @@ root@neural-lab:~$ ./simulate_contribution_flow.sh
 <!-- ================= QUOTE ================= -->
 <div align="center">
 
-```bash
-root@neural-lab:~$ fetch --model wisdom.log
-```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 
 </div>
 
@@ -175,14 +163,12 @@ root@neural-lab:~$ fetch --model wisdom.log
 <!-- ================= CONNECT ================= -->
 <div align="center">
 
-```bash
-root@neural-lab:~$ cat /etc/uplink_channels.conf
-```
+### 🤝 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:zaminaliafzal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/your-linkedin-here)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6EC7)](https://instagram.com/your-handle-here)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://your-portfolio-link-here.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaminaliafzal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![Instagram](https://img.shields.io/badge/-Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle-here)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link-here.com)
 
 </div>
 
@@ -190,11 +176,8 @@ root@neural-lab:~$ cat /etc/uplink_channels.conf
 
 <div align="center">
 
-```bash
-root@neural-lab:~$ echo "Thanks for visiting the lab! ⭐ Star my repos if you like my work"
-> Thanks for visiting the lab! ⭐ Star my repos if you like my work
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1b2a,60:001a1a,100:000000&height=160&section=footer" width="100%"/>
+<sub>⭐ Thanks for visiting — feel free to star my repos if you like my work!</sub>
 
 </div>
