@@ -27,7 +27,7 @@ zamin@ai-engineer:~$ ./identity_scan.sh --target "Zamin Abbas"
 <tr>
 <td align="center" width="340">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="340"><br>
+<img src="<img src="https://raw.githubusercontent.com/zaminaliafzal-oss/zaminaliafzal-oss/main/assets/profile.jpg" width="340"<br>
 
 <sub><b>⬆️ Replace this frame's source with your photo</b></sub><br>
 <sub>Upload your image as <code>assets/profile.jpg</code> in your repo,<br>then swap the src above for:<br><code>https://raw.githubusercontent.com/zaminaliafzal-oss/&lt;repo&gt;/main/assets/profile.jpg</code></sub>
